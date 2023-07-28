@@ -17,11 +17,11 @@ This can be expanded on with containers:
 
 The UberGoober call will create the following HTML in the dom:
 
-`<div id='goober-1'>
+<code><div id='goober-1'>
     <span id='goober-0'>
         'nested span woah'
     </span>
-</div>`
+</div></code>
 
 Of course, you may want to add attributes to an element, which can be done with the following syntax:
 
